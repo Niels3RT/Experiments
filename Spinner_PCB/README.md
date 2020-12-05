@@ -7,7 +7,7 @@ A pcb for [Sorgeligs PaddleTwoControllersUSB project](https://github.com/MiSTer-
 Use a piece of perfboard to prevent pins from sticking out from the top surface.
 ![arduino_soldering](arduino_soldering.jpg?raw=true "arduino_soldering")
 
-### Firmware
+## Firmware
 The pcb was designed for Sorgeligs firmware, but i included a firmware that reports the spinner as a mouse too.
 
 ## License
