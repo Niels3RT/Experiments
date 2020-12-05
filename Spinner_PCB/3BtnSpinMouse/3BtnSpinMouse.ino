@@ -58,7 +58,7 @@ const int8_t encpin[2] = {1, 0};        // rotary encoder
 // ATT: 20 chars max (including NULL at the end) according to Arduino source code.
 // Additionally serial number is used to differentiate arduino projects to have different button maps!
 //const char *gp_serial_spin = "MiSTer-S1 Spinner";
-const char *gp_serial = "SpinJoy V0.1";
+const char *gp_serial = "3btnSpMouse V0.1";
 
 #include <EEPROM.h>
 #include "Spinner.h"
