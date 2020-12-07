@@ -27,7 +27,8 @@
 // Spinner pulses per revolution
 // For arduino shield spinner: 20
 //#define SPINNER_PPR 20
-#define SPINNER_PPR 600
+//#define SPINNER_PPR 600
+#define SPINNER_PPR 1200
 
 // upper limit for debounce counter
 // set to 1 to disable debouncing
@@ -57,7 +58,7 @@ const int8_t encpin[2] = {1, 0};        // rotary encoder
 // ID for special support in MiSTer
 // ATT: 20 chars max (including NULL at the end) according to Arduino source code.
 // Additionally serial number is used to differentiate arduino projects to have different button maps!
-//const char *gp_serial_spin = "MiSTer-S1 Spinner";
+//const char *gp_serial = "MiSTer-S1 Spinner";
 const char *gp_serial = "3btnSpMouse V0.1";
 
 #include <EEPROM.h>
