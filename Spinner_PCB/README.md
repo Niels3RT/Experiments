@@ -1,11 +1,18 @@
 ## Introduction
 A pcb for [Sorgeligs PaddleTwoControllersUSB project](https://github.com/MiSTer-devel/Retro-Controllers-USB-MiSTer/tree/master/PaddleTwoControllersUSB).
 
+The mounting screws for the encoder should be around M3x6mm, 10mm are just a little bit too long.
+
+Nice big knobs can be borrowed from HiFi equipment or kitchen tools (stoves etc.). Put weight into the knob (nuts, bolts, steel balls, lead) to get the precision tool feel.
+
 ![top](top.jpg?raw=true "top")
 ![bottom](bottom.jpg?raw=true "bottom")
 
 Use a piece of perfboard to prevent pins from sticking out from the top surface.
 ![arduino_soldering](arduino_soldering.jpg?raw=true "arduino_soldering")
+
+40mm knob, steel balls, hot glue, 60g.
+![knob](knob.jpg?raw=true "knob")
 
 ## Alternative Firmware (experimental)
 The pcb was designed for Sorgeligs firmware, but i included a firmware that does not identify as Mr.Spinner and reports the spinner as a mouse too. This allows for using/mapping all three buttons and might help on other systems, but might cause trouble too...
