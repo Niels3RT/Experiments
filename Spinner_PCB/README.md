@@ -14,6 +14,9 @@ Use a piece of perfboard to prevent pins from sticking out from the top surface.
 40mm knob, steel balls, hot glue, 60g.
 ![knob](knob.jpg?raw=true "knob")
 
+The resistors for the leds should be somewhere around 470Ohm to 2kOhm, depending on the led and brightness.
+![connections](connections.jpg?raw=true "connections")
+
 ## Alternative Firmware (experimental)
 The pcb was designed for Sorgeligs firmware, but i included a firmware that does not identify as Mr.Spinner and reports the spinner as a mouse too. This allows for using/mapping all three buttons and might help on other systems, but might cause trouble too...
 
