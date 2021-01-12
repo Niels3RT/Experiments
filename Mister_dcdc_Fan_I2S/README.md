@@ -7,5 +7,8 @@ A pcb for Mister featuring a dcdc converter, fan, reset button, power/disk/user 
 
 A L78L33ACU linear regulator supplies power to the PCM5102 module, filtering some noise.
 
+![dcdc](dcdc.jpg?raw=true "dcdc")
+The DCDC converter used.
+
 ## License
 This project is licensed under the GNU General Public License v3.0.
