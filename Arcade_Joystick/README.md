@@ -5,7 +5,7 @@ A compact frame for an arcade joystick, 3x 24mm buttons and 2x smaller buttons o
 A shift register is used to provide outputs that should be compatible to old 8bit computers (untested so far).
 
 ![top](overview.png?raw=true "overview")
-![bottom](pcb_bottom_label.jpg?raw=true "bottom pcb")
+![bottom](pcb_bottom_label.png?raw=true "bottom pcb")
 
 ## Parts
 
