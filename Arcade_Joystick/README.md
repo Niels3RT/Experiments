@@ -22,6 +22,8 @@ A shift register is used to provide outputs that should be compatible to old 8bi
 | Capacitor 100nF | 11 |
 | Standoff M3 40mm | 6 |
 | Screw M3x6 | 6 |
+| Screw M5x8 | 4 |
+| Nut M5 | 4 |
 | Arcade Joystick | 1 |
 | Arcade Buttons 24mm | 3 |
 | small Buttons/Switches | 2 |
