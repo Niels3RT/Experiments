@@ -74,7 +74,7 @@ void loop() {
   if (PINB & (1 << PB3)) joy_rep.b5 = 1;
   if (PINB & (1 << PB6)) joy_rep.b6 = 1;
 
-  // joystick directions
+  // --- joystick directions
   if (PINB & (1 << PB5)) joy_rep.x = -1; else if (PINB & (1 << PB4)) joy_rep.x = 1; else joy_rep.x = 0;   // left/right
   if (PINE & (1 << PE6)) joy_rep.y = -1; else if (PINB & (1 << PB2)) joy_rep.y = 1; else joy_rep.y = 0;   // up/down
 
