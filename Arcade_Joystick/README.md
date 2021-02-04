@@ -1,6 +1,6 @@
 ## Introduction
 
-A compact frame for an arcade joystick, 3x 24mm buttons and 2x smaller buttons or switches. All buttons/switches are debounced in hardware.
+A compact frame for an arcade joystick, 3x 24mm buttons and 2x smaller buttons or switches. All axes/buttons/switches are debounced in hardware.
 
 A shift register is used to provide outputs that should be compatible to old 8bit computers (untested so far).
 
