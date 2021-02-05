@@ -6,6 +6,7 @@ A shift register is used to provide outputs that should be compatible to old 8bi
 
 ![top](overview.png?raw=true "overview")
 ![bottom](pcb_bottom_label.png?raw=true "bottom pcb")
+Red: 100nF caps forgotten in picture, PCB is OK.
 
 ## Parts
 
@@ -19,7 +20,7 @@ A shift register is used to provide outputs that should be compatible to old 8bi
 | JST XH2.54 2 | 3 |
 | Resistor 10k | 11 |
 | Resistor 2k | 11 |
-| Capacitor 100nF | 11 |
+| Capacitor 100nF | 15 |
 | Standoff M3 40mm | 6 |
 | Screw M3x6 | 6 |
 | Screw M5x8 | 4 |
