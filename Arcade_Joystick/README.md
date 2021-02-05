@@ -6,6 +6,7 @@ A shift register is used to provide outputs that should be compatible to old 8bi
 
 ![top](overview.png?raw=true "overview")
 ![bottom](pcb_bottom_label.png?raw=true "bottom pcb")
+
 Red: 100nF caps forgotten in picture, PCB is OK.
 
 ## Parts
