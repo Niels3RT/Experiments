@@ -2,7 +2,7 @@
 
 A compact frame for an arcade joystick, 3x 24mm buttons and 2x smaller buttons or switches. All axes/buttons/switches are debounced in hardware.
 
-The holes for the 24mm buttons might not be perfectly sized, some of my cheap buttons (the cheapest i could find at Aliexpress) fit tightly, some are loose.
+The holes for the 24mm buttons might not be perfectly sized, some of my cheap buttons (the cheapest i could find at Aliexpress) fit tightly, some are loose. A little hotglue stops the rattling.
 
 A latched shift register is used to provide outputs that should be compatible to old 8bit computers (untested so far).
 
