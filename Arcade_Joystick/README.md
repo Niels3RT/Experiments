@@ -15,7 +15,7 @@ Red: 100nF caps forgotten in picture, PCB is OK.
 
 | part | nr |
 |------|-------------|
-| Arduino Pro Micro | 1 |
+| Arduino Pro Micro 5V | 1 |
 | Micro USB cable | 1 |
 | 74HC14 | 2 |
 | JST XH2.54 5 | 1 |
