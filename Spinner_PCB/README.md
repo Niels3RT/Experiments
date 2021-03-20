@@ -3,6 +3,8 @@ A pcb for [Sorgeligs PaddleTwoControllersUSB project](https://github.com/MiSTer-
 
 The mounting screws for the encoder should be around M3x6mm, 10mm are just a little bit too long.
 
+There are mounting holes for the pcb too, use 40mm standoffs to mount a second (unpopulated) pcb at the bottom for a standalone unit.
+
 Nice big knobs can be borrowed from HiFi equipment or kitchen tools (stoves etc.). Put weight into the knob (nuts, bolts, steel balls, lead) to get the precision tool feel.
 
 ![top](top.jpg?raw=true "top")
